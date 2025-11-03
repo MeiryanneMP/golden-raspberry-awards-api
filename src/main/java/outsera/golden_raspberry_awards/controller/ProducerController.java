@@ -12,16 +12,6 @@ import outsera.golden_raspberry_awards.model.Producer;
 import outsera.golden_raspberry_awards.service.ProducerService;
 
 
-
-
-
-
-
-
-
-
-
-
 @RestController
 @RequestMapping("/producers")
 public class ProducerController {
