@@ -1,7 +1,7 @@
 Projeto:
 -------------------------------------------------------------------------------------------------------------------
-API RESTful que retorna lista de produtores com maior intervalo entre dois prêmios consecutivos, e que obteve dois
-prêmios mais rápido da categoria Pior Filme do Golden Raspberry Awards.
+API que retorna lista de produtores com maior intervalo entre dois prêmios consecutivos, e o que obteve dois
+prêmios mais rápido da categoria: Pior Filme do Golden Raspberry Awards.
 
 Sistema Operacional:
 -------------------------------------------------------------------------------------------------------------------
